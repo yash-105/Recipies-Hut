@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recipes-Hut/static/css/main.34a77b78.css",
+    "main.js": "/Recipes-Hut/static/js/main.aa284baa.js",
+    "index.html": "/Recipes-Hut/index.html",
+    "main.34a77b78.css.map": "/Recipes-Hut/static/css/main.34a77b78.css.map",
+    "main.aa284baa.js.map": "/Recipes-Hut/static/js/main.aa284baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a77b78.css",
+    "static/js/main.aa284baa.js"
+  ]
+}
